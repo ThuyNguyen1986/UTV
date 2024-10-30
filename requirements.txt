@@ -1,0 +1,7 @@
+mysql-connector-python
+ultralytics
+opencv-python-headless 
+matplotlib
+numpy
+datetime
+PyQt5
